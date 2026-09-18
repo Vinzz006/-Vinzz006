@@ -1,19 +1,12 @@
 <div align="center">
 
-<!-- Animated Header -->
-
 <a href="https://github.com/Vinzz006">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+Developer+%7C+Full-Stack+Developer;IoT+%26+Embedded+Systems;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
 </a>
 
 <br/>
 
-### AI/ML Developer • Full-Stack Developer • IoT & Embedded Systems
-
-<p>
-Building intelligent, practical solutions at the intersection of
-<b>Artificial Intelligence</b>, <b>Software</b>, and <b>Connected Hardware</b>.
-</p>
+**Electronics & Communication Engineering student at [College Name] · Class of [Year]**
 
 <p>
   <a href="https://github.com/Vinzz006">
@@ -21,9 +14,6 @@ Building intelligent, practical solutions at the intersection of
   </a>
   <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
     <img src="https://img.shields.io/badge/LinkedIn-Vinesh%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/_vinzz_006">
-    <img src="https://img.shields.io/badge/Instagram-%40_vinzz_006-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:shanmugamvinesh75@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
@@ -34,117 +24,124 @@ Building intelligent, practical solutions at the intersection of
 
 ---
 
-# 💫 About Me
+## 👋 About Me
 
-I'm an **Electronics & Communication Engineering student** passionate about building solutions that combine **AI, software, embedded systems, and IoT**.
+I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-vision models, and LLM-powered apps, wrapped in a FastAPI backend and a React frontend. I like taking an idea from **concept → prototype → working application**.
 
-I enjoy taking an idea from concept → prototype → working application.
-
-### 🔭 I'm currently working on
-
-- AI-powered applications
-- Computer Vision systems
-- IoT and ESP32-based solutions
-- Full-Stack web applications
-- RAG and LLM-powered applications
-- AI + IoT integrated systems
-- Hackathon and real-world engineering projects
-
-### 👯 I'm looking to collaborate on
-
-- AI / ML projects
-- Generative AI
-- Computer Vision
-- RAG applications
-- IoT systems
-- Full-Stack applications
-- Open-Source projects
-- Innovative engineering projects
-
-### 🌱 I'm currently learning
-
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- Computer Vision
-- MLOps
-- FastAPI
-- Cloud Deployment
-- System Design
-- AI + IoT integration
-
-### 💬 Ask me about
-
-`AI/ML` • `Python` • `Computer Vision` • `RAG` • `FastAPI` • `React` • `IoT` • `ESP32` • `Embedded Systems` • `Full-Stack Development` • `ECE Projects` • `Hackathons`
-
-### ⚡ Fun fact
-
-I enjoy turning engineering ideas into working prototypes by combining **AI + Software + Embedded Systems + IoT**.
+🎯 **Looking for:** [AI/ML internship | Embedded + AI role | Full-stack + AI role], starting [Month Year]
 
 ---
 
-# 🧠 AI & Machine Learning
+## 🚀 Featured Projects
+
+> Replace the placeholders below with your best 3 to 6 projects. Use real numbers (accuracy, latency, users, hackathon placement). Delete any block you don't have yet.
+
+### 🏥 [Project Name]: Healthcare AI / Computer Vision
+**Problem:** [One line: who has this problem and why it matters]
+**What I built:** [e.g., CNN classifier for X → FastAPI inference service → React dashboard]
+**Result:** [e.g., 94% accuracy on Y dataset / deployed at Z / placed Nth at ABC Hackathon]
+**Stack:** `Python` `PyTorch` `OpenCV` `FastAPI` `React`
+🔗 [Repo](link) · [Live Demo](link)
+
+### 🌱 [Project Name]: Smart Agriculture / IoT
+**Problem:** [One line]
+**What I built:** [e.g., ESP32 soil-moisture nodes → Firebase → ML model predicting irrigation need]
+**Result:** [Measurable outcome]
+**Stack:** `ESP32` `C++` `Firebase` `Python` `scikit-learn`
+🔗 [Repo](link) · [Demo video](link)
+
+### 🤖 [Project Name]: RAG / LLM Application
+**Problem:** [One line]
+**What I built:** [e.g., document Q&A assistant using embeddings + vector search + local LLM]
+**Result:** [Measurable outcome or what you learned]
+**Stack:** `Python` `LangChain` `Ollama` `FastAPI`
+🔗 [Repo](link) · [Demo](link)
+
+---
+
+## 🧰 Skills
+
+### Core (I use these regularly and can discuss them in depth)
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,cpp,arduino,firebase,git" />
 </p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Large Language Models
-- RAG Systems
-- AI Chatbots
-- Image Classification
-- Object Detection
-- Medical AI
-- Predictive Analytics
-- Model Explainability
-- AI + IoT Systems
+- **ML / AI:** Computer Vision, Deep Learning, RAG & LLM applications, embeddings & vector search
+- **Embedded / IoT:** ESP32, ESP32-CAM, Arduino, sensors & actuators, real-time monitoring
+- **Backend / Frontend:** FastAPI, REST APIs, React, Vite, Tailwind CSS
 
-### ML / Data Stack
+### Familiar (used in projects, still building depth)
 
-`PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `SciPy` `OpenCV`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,flask,nodejs,postgresql,mongodb,docker,linux" />
+</p>
+
+### Exploring (currently learning)
+
+`MLOps` · `Cloud deployment (AWS / GCP)` · `System design` · `Kubernetes`
+
+> ⚠️ Adjust the tiers above to match your real experience. Anything you can't explain in an interview belongs in "Exploring" or should be removed.
 
 ---
 
-# 🤖 AI Engineering
+## 🔭 Right Now
 
-- LLM Applications
-- Retrieval-Augmented Generation
-- Prompt Engineering
-- Vector Search
-- Embeddings
-- AI Chatbots
-- Document Intelligence
-- AI Agents
-- Model Integration
-- FastAPI AI Backends
-- Local LLMs
-- Ollama
-- LangChain
+- **Building:** [Current project, one line]
+- **Learning:** [1 to 3 specific things, e.g., deploying FastAPI apps with Docker]
 
 ---
 
-# 💻 Full-Stack Development
+## 🏆 Hackathons & Achievements
+
+- [Hackathon name, year: what you built, result]
+- [Certification, publication, or competition]
+- [Anything else with a name and a date]
+
+---
+
+## 🤝 Open To
+
+Internships and entry-level roles in **AI/ML**, **AI + IoT** and **full-stack** development, and collaboration on open-source or hardware + AI projects.
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/Vinesh-Shanmugam) · [Email](mailto:shanmugamvinesh75@gmail.com)
+
+---
+
+## 🛠️ How I Build
+
+```text
+Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 / IoT integration → Real-world solution
+```
+---
+
+## 🤖 AI Engineering
+
+- Generative AI and Large Language Model applications
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and vector search
+- AI chatbots and document intelligence
+- Local LLM workflows with Ollama
+- LangChain-based AI applications
+- FastAPI-based AI inference backends
+- AI + IoT integration
+
+---
+
+## 💻 Development Stack
 
 ### Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,bash" />
-
 </p>
+
+`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bash`
 
 ### Frontend
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
-
 </p>
 
 `React` `React Native` `React Router` `React Query` `Vite` `Tailwind CSS` `Chart.js` `Streamlit`
@@ -152,45 +149,19 @@ I enjoy turning engineering ideas into working prototypes by combining **AI + So
 ### Backend
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
-
 </p>
 
 `FastAPI` `Flask` `Django` `Node.js` `Express.js` `REST APIs` `JWT Authentication`
 
 ---
 
-# 🔌 IoT & Embedded Systems
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp" />
-
-</p>
-
-- ESP32
-- ESP32-CAM
-- Arduino
-- Embedded C/C++
-- Sensors & Actuators
-- IoT Data Acquisition
-- Real-Time Monitoring
-- Firebase IoT Integration
-- REST API Integration
-- Hardware + AI Integration
-- Smart Sensor Systems
-
----
-
-# 🗄️ Databases & Cloud
+## 🗄️ Databases & Cloud
 
 ### Databases
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase" />
-
 </p>
 
 `PostgreSQL` `MySQL` `MongoDB` `SQLite` `Firebase` `SQLAlchemy`
@@ -198,49 +169,64 @@ I enjoy turning engineering ideas into working prototypes by combining **AI + So
 ### Cloud & Deployment
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,aws" />
-
 </p>
 
 `Firebase` `Vercel` `Render` `Google Cloud` `AWS`
 
 ---
 
-# ⚙️ Tools & DevOps
+## 🔌 IoT & Embedded Systems
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode" />
-
+<img src="https://skillicons.dev/icons?i=arduino,cpp" />
 </p>
 
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- Kubernetes
-- Linux
-- VS Code
-- CI/CD
-- API Development
-- Cloud Deployment
+- ESP32 and ESP32-CAM
+- Embedded C/C++
+- Sensors and actuators
+- IoT data acquisition
+- Real-time monitoring
+- Firebase IoT integration
+- REST API integration
+- Hardware + AI integration
+- Smart sensor systems
 
 ---
 
-# 🎨 Design & Creative Tools
+## 🧠 Machine Learning & Data
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
+`PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `SciPy` `OpenCV`
+
+**Focus areas:** Machine Learning · Deep Learning · Computer Vision · Predictive Analytics · Image Classification · Object Detection · Medical AI · Model Explainability
+
+---
+
+## ⚙️ Tools & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode" />
+</p>
+
+`Git` `GitHub` `GitHub Actions` `Docker` `Kubernetes` `Linux` `VS Code` `CI/CD`
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=figma,blender" />
-
 </p>
 
 `Figma` `Canva` `Blender` `Adobe Photoshop` `Adobe Premiere Pro`
 
 ---
 
-# 🚀 Featured Areas
+## 🚀 Featured Areas
 
 <div align="center">
 
@@ -260,21 +246,99 @@ I enjoy turning engineering ideas into working prototypes by combining **AI + So
 
 ---
 
-# 🛠️ What I Like Building
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Vinzz006&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## 🏗️ How I Like to Build
 
 ```text
-AI Applications
-      ↓
-Machine Learning
-      ↓
-Computer Vision
-      ↓
-Generative AI / RAG
-      ↓
+Idea
+  ↓
+AI / ML / CV / LLM
+  ↓
 FastAPI Backend
-      ↓
+  ↓
 React Frontend
-      ↓
-IoT / ESP32 Integration
-      ↓
+  ↓
+ESP32 / IoT Integration
+  ↓
+Cloud / Database
+  ↓
 Real-World Solution
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in collaborating on **AI, IoT, Computer Vision, Full-Stack, and innovative engineering projects.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:shanmugamvinesh75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/Vinzz006">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Vinzz006&label=Profile%20Views&style=for-the-badge" />
+
+<br/><br/>
+
+### ⚡ Build. Learn. Experiment. Ship.
+
+</div>
