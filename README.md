@@ -197,3 +197,25 @@ I'm always open to **technical discussions, project collaborations, hackathons, 
 ### ⚡ Build. Learn. Experiment. Ship.
 
 </div>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
+  />
+</picture>
+
+</div>
