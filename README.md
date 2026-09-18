@@ -1,23 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinesh Shanmugam
+<!-- Animated Header -->
+
+<a href="https://github.com/Vinzz006">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+Developer+%7C+Full-Stack+Developer;IoT+%26+Embedded+Systems;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
 
 ### AI/ML Developer • Full-Stack Developer • IoT & Embedded Systems
 
-Building intelligent, practical solutions at the intersection of **Artificial Intelligence, Software, and Connected Hardware**.
+<p>
+Building intelligent, practical solutions at the intersection of
+<b>Artificial Intelligence</b>, <b>Software</b>, and <b>Connected Hardware</b>.
+</p>
 
 <p>
-  <a href="https://linkedin.com/in/Vinesh%20Shanmugam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/Vinzz006">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Vinzz006-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/Vinesh-Shanmugam">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinesh%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_vinzz_006">
+    <img src="https://img.shields.io/badge/Instagram-%40_vinzz_006-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:shanmugamvinesh75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.youtube.com/@vineshshanmugam">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -25,197 +34,247 @@ Building intelligent, practical solutions at the intersection of **Artificial In
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm an **Electronics & Communication Engineering student and developer** interested in building technology that moves beyond prototypes and solves practical problems.
+I'm an **Electronics & Communication Engineering student** passionate about building solutions that combine **AI, software, embedded systems, and IoT**.
 
-My work spans **AI/ML, Computer Vision, Generative AI, IoT, Embedded Systems, and Full-Stack Development**. I enjoy taking an idea from concept and architecture to a working application with a real hardware or software interface.
+I enjoy taking an idea from concept → prototype → working application.
 
-- 🤖 Building AI/ML and Computer Vision applications
-- 🔌 Developing IoT and ESP32-based systems
-- 🌐 Building full-stack applications and APIs
-- 🧠 Exploring Generative AI, LLMs and RAG systems
-- 🛠️ Working with real-time data, dashboards and connected devices
-- 🏆 Participating in technical projects and hackathons
-- 📚 Continuously learning modern engineering and software practices
+### 🔭 I'm currently working on
 
----
+- AI-powered applications
+- Computer Vision systems
+- IoT and ESP32-based solutions
+- Full-Stack web applications
+- RAG and LLM-powered applications
+- AI + IoT integrated systems
+- Hackathon and real-world engineering projects
 
-## 🔭 What I'm Currently Working On
+### 👯 I'm looking to collaborate on
 
-- AI-powered applications for real-world use cases
-- IoT systems with real-time monitoring and analytics
-- Computer Vision and intelligent perception systems
-- Full-stack platforms using modern frontend and backend technologies
-- Generative AI, LLM and RAG-based applications
-- AI + IoT integration for smart and connected systems
+- AI / ML projects
+- Generative AI
+- Computer Vision
+- RAG applications
+- IoT systems
+- Full-Stack applications
+- Open-Source projects
+- Innovative engineering projects
 
----
+### 🌱 I'm currently learning
 
-## 🤝 Collaboration
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Computer Vision
+- MLOps
+- FastAPI
+- Cloud Deployment
+- System Design
+- AI + IoT integration
 
-I'm interested in collaborating on:
+### 💬 Ask me about
 
-**AI/ML • Generative AI • Computer Vision • IoT • RAG • Full-Stack Development • Embedded Systems • Open Source • Hackathons**
+`AI/ML` • `Python` • `Computer Vision` • `RAG` • `FastAPI` • `React` • `IoT` • `ESP32` • `Embedded Systems` • `Full-Stack Development` • `ECE Projects` • `Hackathons`
 
-If you're building something interesting in these areas, feel free to connect.
+### ⚡ Fun fact
 
----
-
-## 🌱 Currently Learning
-
-**Generative AI • LLMs • RAG Architectures • Computer Vision • MLOps • FastAPI • Cloud Deployment • System Design**
-
----
-
-# 🛠️ Technical Skills
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
-### 🧠 AI Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🌐 Frontend & Full Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-### 🔌 IoT & Embedded Systems
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### 🧰 Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+I enjoy turning engineering ideas into working prototypes by combining **AI + Software + Embedded Systems + IoT**.
 
 ---
 
-# 📌 Areas of Interest
+# 🧠 AI & Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
+
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models
+- RAG Systems
+- AI Chatbots
+- Image Classification
+- Object Detection
+- Medical AI
+- Predictive Analytics
+- Model Explainability
+- AI + IoT Systems
+
+### ML / Data Stack
+
+`PyTorch` `TensorFlow` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `SciPy` `OpenCV`
+
+---
+
+# 🤖 AI Engineering
+
+- LLM Applications
+- Retrieval-Augmented Generation
+- Prompt Engineering
+- Vector Search
+- Embeddings
+- AI Chatbots
+- Document Intelligence
+- AI Agents
+- Model Integration
+- FastAPI AI Backends
+- Local LLMs
+- Ollama
+- LangChain
+
+---
+
+# 💻 Full-Stack Development
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,bash" />
+
+</p>
+
+### Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
+
+</p>
+
+`React` `React Native` `React Router` `React Query` `Vite` `Tailwind CSS` `Chart.js` `Streamlit`
+
+### Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
+
+</p>
+
+`FastAPI` `Flask` `Django` `Node.js` `Express.js` `REST APIs` `JWT Authentication`
+
+---
+
+# 🔌 IoT & Embedded Systems
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp" />
+
+</p>
+
+- ESP32
+- ESP32-CAM
+- Arduino
+- Embedded C/C++
+- Sensors & Actuators
+- IoT Data Acquisition
+- Real-Time Monitoring
+- Firebase IoT Integration
+- REST API Integration
+- Hardware + AI Integration
+- Smart Sensor Systems
+
+---
+
+# 🗄️ Databases & Cloud
+
+### Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase" />
+
+</p>
+
+`PostgreSQL` `MySQL` `MongoDB` `SQLite` `Firebase` `SQLAlchemy`
+
+### Cloud & Deployment
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,aws" />
+
+</p>
+
+`Firebase` `Vercel` `Render` `Google Cloud` `AWS`
+
+---
+
+# ⚙️ Tools & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode" />
+
+</p>
+
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- Kubernetes
+- Linux
+- VS Code
+- CI/CD
+- API Development
+- Cloud Deployment
+
+---
+
+# 🎨 Design & Creative Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=figma,blender" />
+
+</p>
+
+`Figma` `Canva` `Blender` `Adobe Photoshop` `Adobe Premiere Pro`
+
+---
+
+# 🚀 Featured Areas
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | ML • DL • Generative AI • LLMs |
+| 👁️ Computer Vision | Detection • Classification • Medical AI |
+| 🧠 RAG & LLM | Embeddings • Vector Search • AI Assistants |
+| 🌐 Full Stack | React • FastAPI • REST APIs |
+| 🔌 IoT | ESP32 • Sensors • Real-Time Monitoring |
+| 🏥 Healthcare AI | Medical AI • Digital Healthcare |
+| 🌱 Smart Agriculture | AI • IoT • Predictive Systems |
+| ⛏️ Smart Safety | IoT • Computer Vision • Monitoring |
+| ⚡ Smart Energy | IoT • Energy Monitoring • Analytics |
+
+</div>
+
+---
+
+# 🛠️ What I Like Building
 
 ```text
-Artificial Intelligence
-Machine Learning & Deep Learning
-Generative AI & LLM Applications
+AI Applications
+      ↓
+Machine Learning
+      ↓
 Computer Vision
-Retrieval-Augmented Generation (RAG)
-IoT & Embedded Systems
-Full-Stack Development
-Real-Time Monitoring Systems
-AI + Hardware Integration
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Vinzz006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=dark&hide_border=false" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vinzz006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🏆 Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Vinzz006&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-I'm always open to **technical discussions, project collaborations, hackathons, and opportunities to build useful technology together.**
-
-📧 **Email:** shanmugamvinesh75@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/Vinesh%20Shanmugam  
-🎥 **YouTube:** https://www.youtube.com/@vineshshanmugam  
-🐙 **GitHub:** https://github.com/Vinzz006
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vinzz006&label=Profile%20Views&color=0e75b6&style=flat)
-
-### ⚡ Build. Learn. Experiment. Ship.
-
-</div>
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Vinzz006/Vinzz006/output/github-snake.svg"
-  />
-</picture>
-
-</div>
+      ↓
+Generative AI / RAG
+      ↓
+FastAPI Backend
+      ↓
+React Frontend
+      ↓
+IoT / ESP32 Integration
+      ↓
+Real-World Solution
