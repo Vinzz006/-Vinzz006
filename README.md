@@ -6,7 +6,7 @@
 
 <br/>
 
-**Electronics & Communication Engineering student at [College Name] · Class of [Year]**
+**Electronics & Communication Engineering student at Meenakshi Sundararajan Engineering College  · Class of [2024-2028]**
 
 <p>
   <a href="https://github.com/Vinzz006">
