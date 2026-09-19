@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Vinzz006">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -246,9 +246,9 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cb=1" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Vinzz006&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=tokyonight&hide_border=true&count_private=true&cb=1" height="170"/>
 
 </div>
 
@@ -256,7 +256,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cb=1" />
 
 </div>
 
