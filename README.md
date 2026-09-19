@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Vinzz006">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hi%2C+I'm+Vinesh+Shanmugam;AI%2FML+%7C+Full-Stack+%7C+IoT+%26+Embedded;I+build+AI+that+connects+to+real+hardware" alt="Typing SVG" /> 
 </a>
 
 <br/>
