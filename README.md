@@ -32,18 +32,6 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</a>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 [Project Name]: Healthcare AI / Computer Vision
