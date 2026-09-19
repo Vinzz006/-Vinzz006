@@ -79,8 +79,6 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 `MLOps` · `Cloud deployment (AWS / GCP)` · `System design` · `Kubernetes`
 
-> ⚠️ Adjust the tiers above to match your real experience. Anything you can't explain in an interview belongs in "Exploring" or should be removed.
-
 ---
 
 ## 🔭 Right Now
