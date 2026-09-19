@@ -246,7 +246,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cb=1" height="170"/>
+<img src="https://github-readme-stats-kappa-one-51.vercel.app/api?username=Vinzz006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://streak-stats.demolab.com/?user=Vinzz006&theme=tokyonight&hide_border=true&count_private=true&cb=1" height="170"/>
 
@@ -256,7 +256,7 @@ Idea → Model (ML / CV / LLM) → FastAPI backend → React frontend → ESP32 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cb=1" />
+<img src="https://github-readme-stats-kappa-one-51.vercel.app/api/top-langs/?username=Vinzz006&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
