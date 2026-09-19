@@ -34,8 +34,6 @@ I build AI systems that connect to real hardware: ESP32 sensor nodes, computer-v
 
 ## 🚀 Featured Projects
 
-> Replace the placeholders below with your best 3 to 6 projects. Use real numbers (accuracy, latency, users, hackathon placement). Delete any block you don't have yet.
-
 ### 🏥 [Project Name]: Healthcare AI / Computer Vision
 **Problem:** [One line: who has this problem and why it matters]
 **What I built:** [e.g., CNN classifier for X → FastAPI inference service → React dashboard]
